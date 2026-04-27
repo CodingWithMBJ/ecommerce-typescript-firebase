@@ -1,4 +1,5 @@
 import type { SearchBarProps } from "../types/form";
+import React from "react";
 
 const SearchBar = ({
   searchTerm,

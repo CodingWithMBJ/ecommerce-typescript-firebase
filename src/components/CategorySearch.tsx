@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import type { CategoryOption, CategorySearchProps } from "../types/form";
 import { getProducts } from "../services/productService";
 
